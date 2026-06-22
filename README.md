@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Catalin Bobarnac (@sfc-gh-cbobarnac)
-- 👀 I’m interested in dbt, Snowflake performance tuning, Cortex Code, Agent Evals, Snowflake CoWork
+- 👀 I’m interested in dbt, Snowflake performance tuning, Cortex Code, Agent Evals, Snowflake CoWork, Data vault 2.1
 - 🌱 I’m currently learning Agent Evals
 - 💞️ I’m looking to collaborate on various topics
 - 📫 How to reach me ...
