@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sfc-gh-cbobarnac
-- 👀 I’m interested in dbt
-- 🌱 I’m currently learning dbt
-- 💞️ I’m looking to collaborate on dbt
+- 👋 Hi, I’m Catalin Bobarnac (@sfc-gh-cbobarnac)
+- 👀 I’m interested in dbt, Snowflake performance tuning, Cortex Code, Agent Evals, Snowflake CoWork
+- 🌱 I’m currently learning Agent Evals
+- 💞️ I’m looking to collaborate on various topics
 - 📫 How to reach me ...
 
 <!---
